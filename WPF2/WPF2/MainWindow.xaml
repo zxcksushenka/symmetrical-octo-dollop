@@ -1,0 +1,52 @@
+﻿<Window x:Class="WPF2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF2"
+        mc:Ignorable="d"
+        Title="FindFile" MinWidth="865" MinHeight="430" Width="865" Height="430">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="25"/>
+        </Grid.ColumnDefinitions>
+        <DockPanel Grid.Row="1" Grid.Column="1">
+            <DockPanel DockPanel.Dock="Top">
+                <Label DockPanel.Dock="Left" Content="Путь к папке"/>
+                <Button DockPanel.Dock="Right" x:Name="pathFolderButton" Content="Выбрать ..." Click="pathFileButton_Click"/>
+                <TextBox x:Name="pathFolderTextBox"/>
+            </DockPanel>
+            <DockPanel DockPanel.Dock="Top">
+                <Label DockPanel.Dock="Left" Content="Маска"/>
+                <TextBox Width="180" x:Name="mask"/>
+                <Rectangle/>
+            </DockPanel>
+            <DockPanel DockPanel.Dock="Top">
+                <Label DockPanel.Dock="Left" Content="Размер файлов"/>
+                <Label DockPanel.Dock="Left" Content="минимум" Width="70"/>
+                <TextBox Width="115"  x:Name="minSize"/>
+                <Rectangle Width="30"/>
+                <Label DockPanel.Dock="Left" Content="максимум" Width="70"/>
+                <TextBox Width="115"  x:Name="maxSize"/>
+                <Rectangle/>
+            </DockPanel>
+            <DockPanel DockPanel.Dock="Top">
+                <Button Width="auto" Content="Начать поиск ..." x:Name="start" Margin="0,5,0,0"/>
+            </DockPanel>
+            <DockPanel DockPanel.Dock="Top">
+                <Label DockPanel.Dock="Left" Width="auto" Content="Список найденных папок и файлов:"/>
+                <Rectangle/>
+            </DockPanel>
+            <DockPanel DockPanel.Dock="Bottom">
+                <ListBox x:Name="listBox"></ListBox>
+            </DockPanel>
+        </DockPanel>
+    </Grid>
+</Window>

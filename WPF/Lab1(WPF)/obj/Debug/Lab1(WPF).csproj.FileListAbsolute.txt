@@ -1,0 +1,33 @@
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\bin\Debug\Lab1(WPF).exe.config
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\bin\Debug\Lab1(WPF).exe
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\bin\Debug\Lab1(WPF).pdb
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\MainWindow.g.cs
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\App.g.cs
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF)_MarkupCompile.cache
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF)_MarkupCompile.lref
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\MainWindow.baml
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF).g.resources
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1_WPF_.Properties.Resources.resources
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF).csproj.GenerateResource.cache
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF).csproj.CoreCompileInputs.cache
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF).exe
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF).pdb
+D:\3-ИС-2\Бабаев Теймур\системное прог\WPF\Lab1(WPF)\obj\Debug\App.baml
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\MainWindow.g.cs
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\App.g.cs
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF)_MarkupCompile.cache
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF)_MarkupCompile.lref
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF).exe
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF).pdb
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\bin\Debug\Lab1(WPF).exe.config
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\bin\Debug\Lab1(WPF).exe
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\bin\Debug\Lab1(WPF).pdb
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\App.baml
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\MainWindow.baml
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF).g.resources
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1_WPF_.Properties.Resources.resources
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF).csproj.GenerateResource.cache
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF).csproj.CoreCompileInputs.cache
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\RenameWindow.g.cs
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\RenameWindow.baml
+D:\3is2\babaev\системное прог\WPF\Lab1(WPF)\obj\Debug\Lab1(WPF).csprojAssemblyReference.cache
